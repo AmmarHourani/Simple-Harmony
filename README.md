@@ -5,6 +5,8 @@ this code includes CLR wrapper in order to be able to inject Harmony .NET DLL in
 
 Just build and place TestCLR.DLL and Test.DLL and 0Harmony.DLL in the same folder , Lunch Extreme Injector 3 , type in the name of the process , add TestCLR.DLL and inject it .
 
+Trick is to include the file that includes the original Types/Classes as a "Resource" in your managed DLL file you intend to inject
+
 Please star this repository if you found it useful
 
 Enjoy
