@@ -1,6 +1,6 @@
 # Simple-Harmony
 
-How to Patch .NET managed code using DLL injection
+How to Patch / Detour / Hook .NET managed code using DLL injection
 
 Following the Amazing work of https://github.com/pardeike/Harmony , yet the examples are bit complex for new comers . here is a more simple one
 
