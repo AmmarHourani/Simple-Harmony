@@ -3,4 +3,10 @@ Following the Amazing work of https://github.com/pardeike/Harmony , yet the exam
 
 this code includes CLR wrapper in order to be able to inject Harmony .NET DLL into other managed/unmanaged process using common Injectors Like Extreme Injector 3
 
+Just build and place TestCLR.DLL and Test.DLL and 0Harmony.DLL in the same folder , Lunch Extreme Injector 3 , type in the name of the process , add TestCLR.DLL and inject it .
+
+Please star this repository if you found it useful
+
+Enjoy
+
 
