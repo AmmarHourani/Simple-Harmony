@@ -14,7 +14,7 @@ Trick is to include the file that includes the original Types/Classes as a "Reso
 
 Please star this repository if you found it useful
 
-hookmebyharmony.exe is the target process in which the target method/function "Add" is defined
+HOOKMYBYHARMONY.EXE is the target process in which the target method/function "Add" is defined
 
 TestCLR.DLL is the DLL we use to attack the target process through injection , i.e. load it into Extreme Injector
 
